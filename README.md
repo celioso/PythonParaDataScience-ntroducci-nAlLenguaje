@@ -72,4 +72,30 @@ Lo que aprendimos en esta aula:
 
 ¿Comenzando esta etapa? Aquí puedes descargar los archivos del proyecto que hemos realizado anteriormente en el aula.
 
-[Descarga los archivos en Github](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion "Descarga los archivos en Github") o haz clic [aquí](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion/archive/main.zip "aquí") para descargarlos directamente.S
+[Descarga los archivos en Github](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion "Descarga los archivos en Github") o haz clic [aquí](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion/archive/main.zip "aquí") para descargarlos directamentes.
+
+### Para saber más: Operadores de Python
+
+Creamos un código que verifica si la edad es `mayor` o `igual` a 18. Este operador no es aritmético y se conoce como operador de comparación. Python tiene más operadores de este tipo:
+
+![Operadores](https://2.bp.blogspot.com/-TL4R4iL9T1w/WV7qCceaYpI/AAAAAAAAAIM/4Fb3aswf1QUD474LVdN5OCLhVCh01RnyQCLcBGAs/s1600/Ashampoo_Snap_2017.07.06_20h54m52s_001_.png "Operadores")
+
+### Haz lo que hicimos en aula: Parámetros de una función
+
+Funciones en Python son bloques de código que ejecutarán algún tipo de tarea o manipulación de datos, pudiendo o no recibir: datos de entrada (parámetros).
+
+Crea una función llamada `verificar_si_puedes_conducir`, que recibe un parámetro llamado `edad` e incluye una condicional `if` para analizar si la edad es `mayor o igual` que `18` años. En caso positivo, haz que muestre un mensaje en la pantalla diciendo `Usted tiene edad suficiente para conducir`. De lo contrario ( `else` ), que muestre el mensaje `Usted NO tiene edad suficiente para conducir`. Después de ejecutar, crea la misma función sin parámetros, que almacene la edad digitada por el usuario. Como todo valor ingresado a través del teclado es un string, no olvides de convertir la `edad` para `int` con el código `int(edad)`.
+
+### Lo que aprendimos
+
+Lo que aprendimos en esta aula:
+
+- Creamos una función que recibe un parámetro.
+- Aprendimos a usar las condicionales.
+- Convertimos el string `str` de la función `input`, que es pasado por el usuario para un valor entero `int`.
+
+### Proyecto del aula anterior
+
+¿Comenzando esta etapa? Aquí puedes descargar los archivos del proyecto que hemos realizado anteriormente en el aula.
+
+[Descarga los archivos en Github](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion/tree/aula2 "Descarga los archivos en Github") o haz clic [aquí](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion/archive/aula2.zip "aquí") para descargarlos directamente.
