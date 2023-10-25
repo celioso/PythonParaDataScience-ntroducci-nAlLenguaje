@@ -148,3 +148,36 @@ Lo que aprendimos en esta aula:
 ¿Comenzando esta etapa? Aquí puedes descargar los archivos del proyecto que hemos realizado anteriormente en el aula.
 
 [Descarga los archivos en Github](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion/tree/aula3 "Descarga los archivos en Github") o haz clic [aquí](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion/archive/aula3.zip "aquí") para descargarlos directamente.
+
+### Para saber más: Proyecto Open Source
+
+Python es un lenguaje de programación popular de código abierto (Open Source). Eso significa que Python se desarrolla bajo una licencia de código abierto aprobada por [OSI](https://es.wikipedia.org/wiki/Open_Source_Initiative "OSI"), lo que lo hace de libre uso y distribución, incluso para uso comercial. La licencia de Python es administrada por [Python Software Foundation](https://es.wikipedia.org/wiki/Python_Software_Foundation "Python Software Foundation").
+
+Para más información sobre [código abierto](https://es.wikipedia.org/wiki/Software_de_c%C3%B3digo_abierto "código abierto"), [haz clic en este link](https://es.wikipedia.org/wiki/Software_de_c%C3%B3digo_abierto "haz clic en este link").
+
+### Haz lo que hicimos en aula: Importación de Bibliotecas y módulos
+
+Al importar la biblioteca `random` y el módulo `randrange`, estamos importando un método que podrá ser usado en nuestro programa. Podemos verificar su tipo conforme se muestra a continuación:
+
+```python
+from random import randrange
+type(randrange)
+```
+
+Nuestra salida será: `method`, indicando que importamos el método para ser usado en nuestro programa.
+
+Importa los métodos `randrange` y `seed`, crea `8 notas` de `0` a `10`, almacenando su contenido en una variable tipo lista llamada `notas_matematica`. Como los números generados se denominan `pseudo aleatorios`, utiliza el método `seed` escogiendo un valor de referencia.
+
+### Lo que aprendimos
+
+Lo que aprendimos en esta aula:
+
+- Aprendimos cómo importar el método `randrange` para generar números enteros aleatorios entre `0` y `10`.
+- Entendimos lo que son números pseudoaleatorios.
+- Vimos cómo establecer una semilla a través del módulo `Seed` para tener control sobre la generación de números pseudoaleatorios.
+
+### Proyecto del aula anterior
+
+¿Comenzando esta etapa? Aquí puedes descargar los archivos del proyecto que hemos realizado anteriormente en el aula.
+
+[Descarga los archivos en Github](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion/tree/aula4 "Descarga los archivos en Github") o haz clic [aquí](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion/archive/aula4.zip "aquí") para descargarlos directamente.
