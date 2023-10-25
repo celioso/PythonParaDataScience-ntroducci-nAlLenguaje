@@ -99,3 +99,52 @@ Lo que aprendimos en esta aula:
 ¿Comenzando esta etapa? Aquí puedes descargar los archivos del proyecto que hemos realizado anteriormente en el aula.
 
 [Descarga los archivos en Github](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion/tree/aula2 "Descarga los archivos en Github") o haz clic [aquí](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion/archive/aula2.zip "aquí") para descargarlos directamente.
+
+### Para saber más: Nomenclatura de variables y tipo float
+
+Podemos pedirle a Python que recuerde un valor que queremos utilizar. Python almacenará este valor en una **variable**.
+
+Variable es un nombre que hace referencia a un valor. Es como una etiqueta que colocamos a ese valor y cuando necesitamos usarla, la llamamos por el nombre que se le asignó en la etiqueta.
+
+El comando de asignación (el signo igual =) crea una nueva variable y le asigna un valor, como vimos en clases.
+
+**Float**
+
+Además de los tipos que se vieron en la clase, existe un tipo para almacenar un valor decimal, como se muestra en el siguiente ejemplo:
+
+```python
+pi = 3.14
+type(pi)
+```
+Al ejecutar ese código, podemos observar que la salida será:
+
+[float](https://docs.python.org/pt-br/3/library/functions.html?highlight=float#float%28%29 "float")
+
+Observa que, en vez de separar el valor con coma (3,14), usamos un punto (3.14).
+
+**Nombre de las variables**
+
+Programadores eligen nombres para variables que sean semánticas. Estos nombres pueden ser muy largos, pueden contener letras y números.
+
+Es una convención entre los programadores de Python comenzar la variable con letras minúsculas y utilizar el underscore ( _ ) para separar palabras como: mi_nombre, numero_de_registro, telefono_residencial. Este padrón se llama [snake case](https://en.wikipedia.org/wiki/Snake_case "snake case").
+
+### Haz lo que hicimos en aula: Listas y loops
+
+Un conjunto de parámetros consiste en una lista que puede ser vacía, con uno o más elementos.
+
+Crea una lista llamada `edades` para almacenar varias edades. A continuación, pasa esta lista como parámetro a una función llamada `verificar_si_puedes_conducir` y para cada edad dentro de la lista, verifica si la edad es `mayor` o `igual` a `18` años. En caso de ser verdadero, haz que muestre la edad y el mensaje `Usted tiene edad suficiente para conducir`. Caso contrario, haz que muestre el mensaje `Usted NO tiene edad suficiente para conducir`. 
+
+### Lo que aprendimos
+
+Lo que aprendimos en esta aula:
+
+- Creamos nuestra primera lista en Python.
+- Aprendimos a utilizar ciclos y bucles, específicamente la estructura de repetición `for`.
+- Descubrimos el tipo booleano.
+- Vimos que es posible almacenar elementos de diferentes tipos en una lista.
+
+### Proyecto del aula anterior
+
+¿Comenzando esta etapa? Aquí puedes descargar los archivos del proyecto que hemos realizado anteriormente en el aula.
+
+[Descarga los archivos en Github](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion/tree/aula3 "Descarga los archivos en Github") o haz clic [aquí](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion/archive/aula3.zip "aquí") para descargarlos directamente.
