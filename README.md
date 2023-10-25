@@ -181,3 +181,36 @@ Lo que aprendimos en esta aula:
 ¿Comenzando esta etapa? Aquí puedes descargar los archivos del proyecto que hemos realizado anteriormente en el aula.
 
 [Descarga los archivos en Github](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion/tree/aula4 "Descarga los archivos en Github") o haz clic [aquí](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion/archive/aula4.zip "aquí") para descargarlos directamente.
+
+### Haz lo que hicimos en aula: Graficando con Matplotlib
+
+En Python, existen numerosos módulos, bibliotecas, métodos que resuelven diferentes problemas. Al trazar un gráfico, por ejemplo, podemos usar Matplotlib.
+
+Importa el módulo `matplotlib.pyplot`, dándole el apodo `plt` que suele dar la comunidad Python. Luego, traza el gráfico de las `8` notas de matemáticas, de modo que el eje `x` indique las pruebas y el eje `y` las notas, incluye un título al gráfico `Notas de matemática` y los respectivos labels a los ejes `x` y `y`.
+
+### Proyecto Final
+
+Aquí puedes descargar los archivos del proyecto completo.
+
+[Descarga los archivos en Github](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion/tree/aula5 "Descarga los archivos en Github") o haz clic [aquí](https://github.com/alura-es-cursos/1784-python-para-data-science-introduccion/archive/aula5.zip "aquí") para descargarlos directamente.
+
+### Lo que aprendimos
+
+Lo que aprendimos en esta aula:
+- Aprendimos cómo importar "Matplotlib" y a asignarle un apodo de "plt".
+- Vimos que es posible crear listas a partir del código "range".
+- Aprendimos cómo crear gráficos, definiendo el título, las etiquetas y el marcador, además de ocultar otros detalles no relevantes.
+
+### Para saber más: Fue un excelente comienzo, pero esto continua...
+
+En este entrenamiento, todas las barreras fueron vencidas, y aprendiste los principales fundamentos de Python, desenvolviendo tu lógica de programación con énfasis en ciencia de datos.
+
+Aprendiste, en la práctica, qué son variables y sus diferentes tipos, funciones, parámetros, condicionales, listas, imports de bibliotecas e incluso realizaste un gráfico usando `Matplotlib`.
+
+Si todavía no has descargado tu Ebook de Python para Data Science, aprovecha y hazlo haciendo clic [aquí](https://caelum-online-public.s3.amazonaws.com/ESP-DS-24-alura-latam-apostilla-python-para-DS/ds-24-ebook-alura-latam-python-para-data-science-vbf.pdf "aquí")
+
+Recuerda que, aquí en Alura, puedes continuar reforzando tus conocimientos en Python y Data Science. Tenemos los cursos que estudian las bibliotecas más populares de Python enfocadas en Data Science, como el curso de [Introducción a Data Science con Numpy](https://app.aluracursos.com/course/python-data-science-introduccion-lenguaje-numpy "Introducción a Data Science con Numpy") o el curso de [Pandas Básico](https://app.aluracursos.com/course/python-data-science-funciones-librerias-pandas-basico "Pandas Básico").
+
+No te olvides de calificar el curso, tu opinión es muy importante para que sigamos mejorando. Obtén tu certificado y compártelo, siéntete feliz por dar este primer gran paso.
+
+**¡Muchas felicidades!**
